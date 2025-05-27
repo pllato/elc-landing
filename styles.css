@@ -8,12 +8,11 @@ header {
   background: #eee;
 }
 .hero {
-  background: #4a90e2;
+  background: url('images/hero_bg.png') no-repeat center/cover;
   color: white;
   text-align: center;
-  padding: 30px;
+  padding: 100px 20px;
 }
-.offline, .gift {
+.content {
   padding: 20px;
-  text-align: center;
 }
